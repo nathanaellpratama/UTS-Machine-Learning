@@ -7,7 +7,7 @@ Repositori kelompok: [https://github.com/kwa23/UTS-Machine-Learning](https://git
 | Anggota | Akun GitHub | Peran | Tautan pull request |
 |---|---|---|---|
 | Prasta Arya Seta | `kwa23` | Menyusun `laporan.pdf` (jawaban Tugas 1–3, menyusun `kontribusi.md`, menggabungkan (merge) semua pull request ke `main` | Laporan: *[laporan.md](https://github.com/telkom-ml-kelompok-7-2026/UTS-Machine-Learning/pull/4)*<br>Kontribusi: [kontribusi.md](https://github.com/telkom-ml-kelompok-7-2026/UTS-Machine-Learning/pull/5) |
-| Nathanael | `nathanaellpratama` | Mengerjakan seluruh kode dan keluaran prediksi: `kode/` (notebook `regresi.ipynb`, `klasifikasi.ipynb`, `clustering.ipynb`, `jalankan_semua.sh`, `requirements.txt`, `README.md`), `prediksi_regresi.csv`, `prediksi_klasifikasi.csv`, `cluster.csv` | [#1 tugas-clustering](https://github.com/telkom-ml-kelompok-7-2026/UTS-Machine-Learning/pull/1)<br>[#2 tugas-regresi](https://github.com/telkom-ml-kelompok-7-2026/UTS-Machine-Learning/pull/2)<br>[#3 tugas-klasifikasi](https://github.com/telkom-ml-kelompok-7-2026/UTS-Machine-Learning/pull/3) |
+| Nathanael Liongky Pratama| `nathanaellpratama` | Mengerjakan seluruh kode dan keluaran prediksi: `kode/` (notebook `regresi.ipynb`, `klasifikasi.ipynb`, `clustering.ipynb`, `jalankan_semua.sh`, `requirements.txt`, `README.md`), `prediksi_regresi.csv`, `prediksi_klasifikasi.csv`, `cluster.csv` | [#1 tugas-clustering](https://github.com/telkom-ml-kelompok-7-2026/UTS-Machine-Learning/pull/1)<br>[#2 tugas-regresi](https://github.com/telkom-ml-kelompok-7-2026/UTS-Machine-Learning/pull/2)<br>[#3 tugas-klasifikasi](https://github.com/telkom-ml-kelompok-7-2026/UTS-Machine-Learning/pull/3) |
 
 Pembagian berkas pengumpulan:
 
@@ -30,7 +30,7 @@ Setiap anggota bekerja di fork masing-masing dan membuka pull request ke reposit
 |---|---|---|
 | Penyusunan draf `laporan.pdf` dari keluaran notebook yang sudah dieksekusi | Prasta Arya Seta | Setiap angka dalam laporan dicocokkan dengan keluaran notebook; tabel dan grafik diambil langsung dari notebook; tata letak laporan diperiksa halaman demi halaman; tiga berkas prediksi diperiksa ulang (nama kolom, jumlah baris, id unik, rentang nilai, p90 ≥ p50, `tandai` bernilai 0 atau 1) |
 | Penyusunan `kontribusi.md` | Prasta Arya Seta | Dibaca ulang dan dicocokkan dengan riwayat commit dan pull request di GitHub |
-| Penulisan dan pemeriksaan kode notebook (sesuai catatan pada `clustering.ipynb`) | Nathanael | *(Nathanael melengkapi: bagian kode yang dibantu AI untuk regresi dan klasifikasi, dan cara ia memverifikasinya)* |
+| Penulisan dan pemeriksaan kode notebook (sesuai catatan pada `clustering.ipynb`) | Nathanael Liongky Pratama | *(Nathanael melengkapi: bagian kode yang dibantu AI untuk regresi dan klasifikasi, dan cara ia memverifikasinya)* |
 
 Seluruh anggota dapat menjelaskan dan mereproduksi pekerjaan kelompok. Hasil dapat direproduksi dengan satu perintah: `bash kode/jalankan_semua.sh`.
 
@@ -39,4 +39,4 @@ Seluruh anggota dapat menjelaskan dan mereproduksi pekerjaan kelompok. Hasil dap
 Pernyataan penggunaan AI di atas disetujui oleh seluruh anggota kelompok.
 
 - [ ] Prasta Arya Seta
-- [ ] Nathanael
+- [ ] Nathanael Liongky Pratama
